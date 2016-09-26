@@ -9,7 +9,7 @@ package helloworld2;
  *
  * @author user
  */
-public class HelloWorld2 {
+public class HelloWorld {
 
     /**
      * @param args the command line arguments
